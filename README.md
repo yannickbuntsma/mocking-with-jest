@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Quick project bootstrapped with Create React App to briefly explain to peers how to mock (functions from) a file with Jest.
 
 ## Available Scripts
 
